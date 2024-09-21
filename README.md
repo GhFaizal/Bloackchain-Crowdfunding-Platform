@@ -1,5 +1,3 @@
-Here’s the updated `README.md` with your project name and contact information:
-
 ```markdown
 # Blockchain Crowdfunding Platform
 
